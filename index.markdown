@@ -5,4 +5,4 @@
 layout: home
 ---
 
-Some content
+Some more content will follow
