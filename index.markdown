@@ -5,4 +5,6 @@
 layout: home
 ---
 
-Some more content will follow
+<h1 class = "post-title"> Content </h1>
+
+My research focuses on how the brain can both <b> compute in time </b> as well as <b> compute with time </b>.
