@@ -31,7 +31,6 @@ github_username:  sannetenoever
 theme: minima
 plugins:
   - jekyll-feed
-show_excepts: false
 
 #
 # header_pages:
