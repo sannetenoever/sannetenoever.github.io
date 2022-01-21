@@ -31,6 +31,12 @@ github_username:  sannetenoever
 theme: minima
 plugins:
   - jekyll-feed
+show_excepts: false
+
+#
+# header_pages:
+# - about.md
+# - portfolio.md
 
 # Exclude from processing.
 # The following items will not be processed, by default.
