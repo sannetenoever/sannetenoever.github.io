@@ -6,3 +6,4 @@ layout: home
 ---
 
 My research focuses on how the brain can both compute in time as well as compute with time.
+More information will follow

@@ -4,4 +4,4 @@ title: Publications
 permalink: /publications/
 ---
 
-Publications will follow here
+{% include publications.html %}
